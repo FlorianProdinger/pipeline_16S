@@ -1,6 +1,6 @@
 # 16S rRNA gene amplicon analysis pipeline
 
-This pipeline can be used as an example of how a pipeline can be built. It's not aparticularly good pipeline, but it runs.
+This pipeline can be used as an example of how a pipeline can be built.
 I found it difficult to setup the metadata sheet and the qiime manifest. Feel free to use the reference of this pipeline.
 
 
